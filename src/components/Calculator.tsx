@@ -1,5 +1,5 @@
 const Calculator = () => {
-  return <div>Calculator</div>;
+  return <div data-testid="calculator">Calculator Component</div>;
 };
 
 export default Calculator;
